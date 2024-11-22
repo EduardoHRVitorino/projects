@@ -1,0 +1,24 @@
+body{background-image: linear-gradient(to bottom, rgb(41, 41, 41), rgb(50,50,50), rgb(68, 68, 68), rgb(68, 68, 68), rgb(50,50,50), rgb(41, 41, 41));
+background-attachment: fixed;}
+section#parallax{
+    background-image: url(../imgs/695932.jpg);
+    margin: auto;
+    width: 80%;
+    height: 1000px;
+    border-radius: 5px;
+    background-attachment: fixed;
+    box-shadow: 2px 2px 7px 9px rgb(29, 29, 29);
+}
+.caixa-de-texto{
+    display: inline-block; 
+    background-color: rgba(0, 162, 255, 0.295);
+    color: white;
+    width: 30%; height: 30%;
+    border-radius: 5px;
+    margin-top: 25%; margin-bottom: 25%;
+    margin-left: 2%; margin-right: 2%;
+    
+}
+
+
+
